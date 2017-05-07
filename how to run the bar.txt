@@ -1,0 +1,6 @@
+just type at destination folder in terminal 
+$ ./pop.sh | ./ssid.sh | ./batery.sh | ./tengah.sh | ./menu.sh | lemonbar -B#333333 -g 1360x28 -b -p
+
+optional installed : lemonbar
+you can customize this bar what you want.
+

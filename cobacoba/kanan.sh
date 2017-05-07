@@ -1,0 +1,7 @@
+#!/bin/bash
+sleep 1;
+while true; do
+echo "^fg(#200000)$(printf ${home1})^fg() $(whoami)\
+"; sleep 1; done | dzen2 -geometry 50x28 -x 0 -y 0 \
+-fn '-*-dejavu sans with icons-normal-r-normal--*-100-60-*-p-0-utf8-1' \
+-bg '#333333' -fg '#ffffff'
